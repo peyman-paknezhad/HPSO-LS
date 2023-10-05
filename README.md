@@ -2,7 +2,7 @@
 a hybrid feature selection algorithm based on particle swarm optimization uses a local search strategy
 Sure, here's a summary of the paper "A Hybrid Particle Swarm Optimization for Feature Subset Selection" by Parham Moradi and Mozhgan Gholampour, published in Applied Soft Computing in 2016.
 
-![hp](https://github.com/peyman-paknezhad/HPSO-LS/assets/102018763/6c336ea7-4a21-458c-b749-42af5dd5ff63)
+![hp](https://raw.githubusercontent.com/peyman-paknezhad/HPSO-LS/main/pic/ps.png)
 
 ### Introduction
 
